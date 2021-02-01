@@ -1,3 +1,3 @@
-# Python-xxx-
+# Python
 
 Xyeta po programmirovaniu
