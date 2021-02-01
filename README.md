@@ -1,2 +1,3 @@
-# Python-xxx-porn-hub
+# Python-xxx-
+
 Xyeta po programmirovaniu
